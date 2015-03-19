@@ -1,4 +1,4 @@
-(module Teensy3.1 (layer F.Cu) (tedit 5509FFD6)
+(module Teensy3.1 (layer F.Cu) (tedit 550A7DE4)
   (fp_text reference Teensy3.1 (at 14.605 -7.493) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -41,5 +41,5 @@
   (pad 3.3V thru_hole circle (at 27.94 -5.08) (size 2 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad GND thru_hole circle (at 27.94 -7.62) (size 2 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad Prog thru_hole circle (at 27.94 -10.16) (size 2 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
-  (pad A14/ thru_hole circle (at 27.94 -12.7) (size 2 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
+  (pad A14 thru_hole circle (at 27.94 -12.7) (size 2 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
 )
